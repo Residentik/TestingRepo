@@ -1,3 +1,4 @@
+﻿
 # ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
 
 
@@ -78,3 +79,4 @@ Read file [THANKS](THANKS)
 [Documentation](http://www.trinitycore.net) (powered by Doxygen)
 
 [Forums](http://www.trinitycore.org/f/)
+
